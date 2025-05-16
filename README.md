@@ -1,1 +1,3 @@
-projeto para facilitar a criação de links encurtados para empresa.
+ projeto de links encurtados para empresa.
+
+ dev [euoryan](https://euoryan.com)
