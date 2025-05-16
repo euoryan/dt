@@ -1,2 +1,1 @@
-# dt
-projeto de links encurtados para empresa.
+projeto para facilitar a criação de links encurtados para empresa.
